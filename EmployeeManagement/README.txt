@@ -51,7 +51,7 @@ LOGIN CREDENTIALS
 -----------------
 Admin:
   Username : admin
-  Password : admin123
+  Password : 123456789
 
 Employee:
   ID       : (auto-generated when admin adds them)
